@@ -9,7 +9,7 @@ This project analyzes air pollution data using **Machine Learning** to predict t
 - **EDA & Visualization**: Generates heatmaps and correlation plots.
 - **Performance Evaluation**: Compares model accuracy with MSE and R-squared values.
 
-##  Technologies Used 🛠
+##  Technologies Used 
 - **Python** (Core programming language)
 - **Jupyter Notebook** (Development environment)
 - **Pandas, NumPy** (Data preprocessing)
