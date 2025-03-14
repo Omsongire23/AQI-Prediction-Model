@@ -18,18 +18,14 @@ This project analyzes air pollution data using **Machine Learning** to predict t
 
 ##  Setup Guide
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/air-quality-prediction.git
-cd air-quality-prediction
-```
-
-### 2. Jupyter notebook acess
+### 1. Jupyter notebook acess
 ```bash
 install jupyter notebook
-
+```
+```bash
 jupyter notebook
 ```
+
 ##  How to use this
 - **Load the dataset** and preprocess the data.
 - **Visualize pollutant trends** using heatmaps and correlation analysis.
